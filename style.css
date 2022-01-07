@@ -1,0 +1,13 @@
+input[type="button"]{
+    background-color: orangered;
+    color: black;
+    border-color: black 1px;
+    width:100%; 
+  }
+  input[type="text"]{
+    background-color: aliceblue;  
+    color:black ;
+    border-color: black 1px;
+     width: 100%;
+   
+  }
